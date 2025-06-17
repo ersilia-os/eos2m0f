@@ -1,6 +1,6 @@
 Identifier: eos2m0f
 Slug: chembl-saureus
-Status: In progress
+Status: Ready
 Title: Staphylococcus aureus activity prediction
 Description: Staphylococcus aureus activity prediction based on phenotypic 
   ChEMBL data. Each column corresponds to a specific bioactivity dataset derived
@@ -36,5 +36,15 @@ License: GPL-3.0-only
 Contributor: arnaucoma24
 Incorporation Date: '2025-06-13'
 S3: https://ersilia-models-zipped.s3.eu-central-1.amazonaws.com/eos2m0f.zip
+DockerHub: https://hub.docker.com/r/ersiliaos/eos2m0f
+Docker Architecture:
+  - AMD64
+  - ARM64
 Model Size: 1732.0
 Environment Size: 726.0
+Image Size: 3241.16
+Computational Performance 1: 60.42
+Computational Performance 2: 50.56
+Computational Performance 3: 51.64
+Computational Performance 4: 376.48
+Computational Performance 5: -1.0
