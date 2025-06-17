@@ -2,20 +2,24 @@ Identifier: eos2m0f
 Slug: chembl-saureus
 Status: In progress
 Title: Staphylococcus aureus activity prediction
-Description: Staphylococcus aureus activity prediction based on ChEMBL data
+Description: Staphylococcus aureus activity prediction based on phenotypic 
+  ChEMBL data. Each column corresponds to a specific bioactivity dataset derived
+  from ChEMBL, encompassing multiple assays and binarization cut-offs. The 
+  global consensus score summarizes the probability of being active. Model 
+  developed by Ersilia.
 Deployment:
 - Local
 Source: Local
 Source Type: Internal
 Task: Annotation
-Subtask: PActivity prediction
+Subtask: Activity prediction
 Input:
 - Compound
 Input Dimension: 1
 Output: Score
 Output Dimension: 51
 Output Consistency: Fixed
-Interpretation: 'Probability of being active against Staphylococcus aureus and global consensus score'
+Interpretation: 'The higher the probabilities and the global consensus scores, the more likely this compound is active against Staphylococcus aureus'
 Tag:
 - Antimicrobial activity
 - ChEMBL
