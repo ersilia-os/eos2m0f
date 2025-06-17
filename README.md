@@ -2,6 +2,7 @@
 
 Staphylococcus aureus activity prediction based on phenotypic ChEMBL data. Each column corresponds to a specific bioactivity dataset derived from ChEMBL, encompassing multiple assays and binarization cut-offs. The global consensus score summarizes the probability of being active. Model developed by Ersilia.
 
+This model was incorporated on 2025-06-13.
 
 ## Information
 ### Identifiers
@@ -42,8 +43,11 @@ _10 of 51 columns are shown_
 ### Source and Deployment
 - **Source:** `Local`
 - **Source Type:** `Internal`
+- **S3 Storage**: [https://ersilia-models-zipped.s3.eu-central-1.amazonaws.com/eos2m0f.zip](https://ersilia-models-zipped.s3.eu-central-1.amazonaws.com/eos2m0f.zip)
 
 ### Resource Consumption
+- **Model Size (Mb):** `1732`
+- **Environment Size (Mb):** `726`
 
 
 ### References
