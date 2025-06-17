@@ -43,12 +43,19 @@ _10 of 51 columns are shown_
 ### Source and Deployment
 - **Source:** `Local`
 - **Source Type:** `Internal`
+- **DockerHub**: [https://hub.docker.com/r/ersiliaos/eos2m0f](https://hub.docker.com/r/ersiliaos/eos2m0f)
+- **Docker Architecture:** `AMD64`, `ARM64`
 - **S3 Storage**: [https://ersilia-models-zipped.s3.eu-central-1.amazonaws.com/eos2m0f.zip](https://ersilia-models-zipped.s3.eu-central-1.amazonaws.com/eos2m0f.zip)
 
 ### Resource Consumption
 - **Model Size (Mb):** `1732`
 - **Environment Size (Mb):** `726`
+- **Image Size (Mb):** `3241.16`
 
+**Computational Performance (seconds):**
+- 10 inputs: `60.42`
+- 100 inputs: `51.64`
+- 10000 inputs: `-1`
 
 ### References
 - **Source Code**: [None](None)
