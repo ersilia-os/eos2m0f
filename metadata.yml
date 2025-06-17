@@ -8,27 +8,30 @@ Description: Staphylococcus aureus activity prediction based on phenotypic
   global consensus score summarizes the probability of being active. Model 
   developed by Ersilia.
 Deployment:
-- Local
+  - Local
 Source: Local
 Source Type: Internal
 Task: Annotation
 Subtask: Activity prediction
 Input:
-- Compound
+  - Compound
 Input Dimension: 1
 Output: Score
 Output Dimension: 51
 Output Consistency: Fixed
-Interpretation: 'The higher the probabilities and the global consensus scores, the more likely this compound is active against Staphylococcus aureus'
+Interpretation: The higher the probabilities and the global consensus scores, 
+  the more likely this compound is active against Staphylococcus aureus
 Tag:
-- Antimicrobial activity
-- ChEMBL
-- ESKAPE
+  - Antimicrobial activity
+  - ChEMBL
+  - ESKAPE
 Biomedical Area: Antimicrobial resistance
 Target Organism:
-- Staphylococcus aureus
+  - Staphylococcus aureus
 Publication Type: Other
 Publication Year: 2025
-Publication: null
-Source Code: null
+Publication: None
+Source Code: None
 License: GPL-3.0-only
+Contributor: arnaucoma24
+Incorporation Date: '2025-06-13'
