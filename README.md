@@ -50,12 +50,12 @@ _10 of 51 columns are shown_
 ### Resource Consumption
 - **Model Size (Mb):** `867`
 - **Environment Size (Mb):** `730`
-- **Image Size (Mb):** `3241.16`
+- **Image Size (Mb):** `3245.43`
 
 **Computational Performance (seconds):**
-- 10 inputs: `60.42`
-- 100 inputs: `51.64`
-- 10000 inputs: `-1`
+- 10 inputs: `37.2`
+- 100 inputs: `27.54`
+- 10000 inputs: `591.56`
 
 ### References
 - **Source Code**: [None](None)
