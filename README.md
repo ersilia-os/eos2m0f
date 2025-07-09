@@ -53,9 +53,9 @@ _10 of 51 columns are shown_
 - **Image Size (Mb):** `3245.43`
 
 **Computational Performance (seconds):**
-- 10 inputs: `37.2`
-- 100 inputs: `27.54`
-- 10000 inputs: `591.56`
+- 10 inputs: `36.87`
+- 100 inputs: `27.19`
+- 10000 inputs: `587.17`
 
 ### References
 - **Source Code**: [None](None)
