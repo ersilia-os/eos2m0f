@@ -35,6 +35,8 @@ Source Code: https://github.com/ersilia-os/chembl-antimicrobial-models
 License: GPL-3.0-only
 Contributor: arnaucoma24
 Incorporation Date: '2025-06-13'
+Last Packaging Date: '2025-08-27'
+Release: v1.0.0
 S3: https://ersilia-models-zipped.s3.eu-central-1.amazonaws.com/eos2m0f.zip
 DockerHub: https://hub.docker.com/r/ersiliaos/eos2m0f
 Docker Architecture:
@@ -42,9 +44,9 @@ Docker Architecture:
   - ARM64
 Model Size: 867.0
 Environment Size: 731.0
-Image Size: 3245.43
-Computational Performance 1: 36.87
-Computational Performance 2: 26.26
-Computational Performance 3: 27.19
-Computational Performance 4: 126.57
-Computational Performance 5: 587.17
+Image Size: 3325.12
+Computational Performance 1: 37.22
+Computational Performance 2: 27.34
+Computational Performance 3: 27.51
+Computational Performance 4: 127.43
+Computational Performance 5: 586.21
