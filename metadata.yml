@@ -30,8 +30,8 @@ Target Organism:
   - Staphylococcus aureus
 Publication Type: Other
 Publication Year: 2025
-Publication: None
-Source Code: None
+Publication: https://ersilia.io
+Source Code: https://github.com/ersilia-os/chembl-antimicrobial-models
 License: GPL-3.0-only
 Contributor: arnaucoma24
 Incorporation Date: '2025-06-13'
