@@ -4,6 +4,7 @@ Staphylococcus aureus activity prediction based on phenotypic ChEMBL data. Each 
 
 This model was incorporated on 2025-06-13.
 
+
 ## Information
 ### Identifiers
 - **Ersilia Identifier:** `eos2m0f`
@@ -58,8 +59,8 @@ _10 of 51 columns are shown_
 - 10000 inputs: `587.17`
 
 ### References
-- **Source Code**: [None](None)
-- **Publication**: [None](None)
+- **Source Code**: [https://github.com/ersilia-os/chembl-antimicrobial-models](https://github.com/ersilia-os/chembl-antimicrobial-models)
+- **Publication**: [https://ersilia.io](https://ersilia.io)
 - **Publication Type:** `Other`
 - **Publication Year:** `2025`
 - **Ersilia Contributor:** [arnaucoma24](https://github.com/arnaucoma24)
