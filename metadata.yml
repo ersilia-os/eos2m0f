@@ -1,6 +1,6 @@
 Identifier: eos2m0f
 Slug: chembl-saureus
-Status: Ready
+Status: Archived
 Title: Staphylococcus aureus activity prediction
 Description: Staphylococcus aureus activity prediction based on phenotypic 
   ChEMBL data. Each column corresponds to a specific bioactivity dataset derived
